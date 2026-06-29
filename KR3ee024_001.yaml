@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ee024/jc/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上卷手少陰心五臟通之圖手太陰肺起寅之圖夫經脈十二所以周流一身如環無端與天同一運行焉蓋天以三百六十五度四分度之一為一周天而終一晝夜人之榮衛則以五十度周於身氣行一萬三千五百息脈行八百一十丈而終一晝夜適當明日之寅時而復會於手太陰是與天同度周而復始以人呼吸之數言之一呼脈行三寸一吸脈行三寸呼吸定息脈行六寸其氣常以平旦始從中焦注手太陰而終注於足厥陰計呼吸二百七十息脈行一十六丈二尺漏下二刻為一周身於是復還注手太陰積而盈之人一呼一吸為一息每刻一百三十五息每時八刻計一千八十息十二時九十六刻計一萬二千九百六十息刻之餘分得五百四十息合一萬三千五百息也一息脈行六寸每二刻二百七十息脈行一十六丈二尺每時八刻脈行六十四丈八尺榮衛四周於身十二時計九十六刻脈行七百七十七丈六尺為四十八周身刻之餘分行二周身得三十二丈四尺總之為五十度周身脈得八百一十丈也此呼吸之息脈行之數周身之度合晝夜百刻之詳也
+  hash: sha256:508fb00482b003efce8f9b8d492fabea913d65e5102dbc059b62ec806bcd110d
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ee024_jc_001-d4.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ee024_jc_001-d4d2, level: 2, head_text: 手少陰心五臟通之圖}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ee024_jc_001-d4.d2.h1s1}
+  - {type: 'tls:div-end', offset: 11, content: '', id: KR3ee024_jc_001-d4d2}
+  - {type: 'tls:div-start', offset: 11, content: '', id: KR3ee024_jc_001-d4d3, level: 2, head_text: 手太陰肺起寅之圖}
+  - {type: 'tls:head', offset: 11, content: '', id: KR3ee024_jc_001-d4.d3.h1s1}
+  - {type: 'tls:div-end', offset: 383, content: '', id: KR3ee024_jc_001-d4d3}
+metadata:
+  title: 靈樞經脈翼
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ee024.xml
+hash: sha256:76a52ba52a066d307bcc4dcd134556ecb43ea2936f6cc2b68244253062d5ec62
