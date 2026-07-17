@@ -24,7 +24,7 @@ assets:
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ee024_000-jc.markers.yaml, hash: 'sha256:81f7c7513c4e992d236a89f6225e39ecf454d857145ec78758d55d27bc93cf2b'}
   - {seq: 1, role: markers, filename: assets/KR3ee024_001-jc.markers.yaml, hash: 'sha256:58f73e434624d787d8135f2118768576e93c5386f5a7721b0b566e40842da384'}
-  - {seq: 2, role: markers, filename: assets/KR3ee024_002-jc.markers.yaml, hash: 'sha256:1698beab8d4cd88cc3775a7719e041034447992cb00e70c40bd5c9853c2eb33a'}
+  - {seq: 2, role: markers, filename: assets/KR3ee024_002-jc.markers.yaml, hash: 'sha256:354828ca44b9deb12c8ac0b99d996aa5db67eab28eeb81fc4d85a37a565b7f65'}
   - {seq: 3, role: markers, filename: assets/KR3ee024_003-jc.markers.yaml, hash: 'sha256:befb1facc47c0868d372fe522c3471b0c8dd7e26d4494413950d66aba78b7dad'}
 table_of_contents:
 - ref:
@@ -357,4 +357,4 @@ table_of_contents:
   label: 任脈之圖
   type: section
   level: 2
-hash: sha256:896064fb5a1ea7e2b366ed8262e6ce543017df79baca3765ff05e8b5003589ee
+hash: sha256:5863dd813af89e5911f3c05cde129fe199b5295df3d14bfd9409c43522d52b61
